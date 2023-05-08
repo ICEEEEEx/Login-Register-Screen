@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">login screen</string>
+    <string name="login_invalid_username">Az, 0-9</string>
+    <string name="login_invalid_password">Az, 0-9, .!@_</string>
+</resources>
